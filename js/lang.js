@@ -37,7 +37,7 @@ l = {
         Capture: {
             m: {
                 KR: "캡쳐 파일은 ACT 폴더 하위에 있는 Screenshot 폴더에서 확인할 수 있습니다.",
-                JP: "ACTのスクショトはACTフォルダの中のScreenshotフォルダで確認できます。",
+                JP: "ACTのスクリーンショットはACTフォルダの中のScreenshotフォルダで確認できます。",
                 EN: "The capture file can be found in the Screenshot folder of your ACT directory.",
                 FR: "Le screenshot peut être trouvé dans le répertoire Screenshot d\'ACT.",
                 DE: "Du findest den aufgenommenen Screenshot in deinem ACT-Ordner unter ScreenShot.",
@@ -47,7 +47,7 @@ l = {
         submit: {
             m: {
                 KR: "변경 사항을 적용했습니다.",
-                JP: "変更事項を適応しました。",
+                JP: "変更を適用しました。",
                 EN: "The change applied.",
                 FR: "La modification a été appliquée.",
                 DE: "Einstellungen wurden übernommen.",
@@ -67,7 +67,7 @@ l = {
         hiddenTable: {
             m: {
                 KR: "대기 모드로 전환합니다.",
-                JP: "待機モードに転換します。",
+                JP: "待機モードに移行します。",
                 EN: "The overlay switches to standby mode.",
                 FR: "L\'overlay passe en mode veille.",
                 DE: "Das Overlay wurde in den Standby versetzt.",
@@ -77,7 +77,7 @@ l = {
         initConfirm: {
             m: {
                 KR: "설정에 대한 모든 변경 사항이 기본값으로 복원되고 개인 데이터가 삭제됩니다. 초기화를 진행하시겠습니까?",
-                JP: "設定のよるすべての変更を基本値に戻し、個人データを削除します。初期化を進行しますか？",
+                JP: "すべての変更を基本設定に戻し、個人データを削除します。初期化を実行しますか？",
                 EN: "Any changes to the settings will be restored to their defaults and your personal data will be deleted. Do you want to proceed with the initialization?",
                 FR: "Toutes les modificationsd des différents paramètres seront remis à zéro et vos données personnelles seront effacées. Voulez-vous lancer la réinitialisation ?",
                 DE: "Alle Einstellungen werden zurückgesetzt. Deine persönlichen Einstellungen gehen unwiderruflich verloren! Möchtest du fortfahren?",
@@ -117,7 +117,7 @@ l = {
         noData: {
             m: {
                 KR: "백업 데이터가 존재하지 않습니다.",
-                JP: "バックアップデーターがありません。",
+                JP: "バックアップデータがありません。",
                 EN: "The backup data does not exist.",
                 FR: "Aucune sauvegarde présente.",
                 DE: "Das Backup existiert nicht.",
